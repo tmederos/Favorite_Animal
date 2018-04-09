@@ -5,7 +5,7 @@
 One of the initial assignments for University of Arizona Coding Bootcamp - building a simple web page describing our favorite animal and deploying it to gitHub.
 
 ---
-Check out the page here: https://tmederos.github.io/HW-Wireframe/
+Check out the page here: https://tmederos.github.io/Favorite_Animal/
 
 ---
 ## Screenshot About Page
